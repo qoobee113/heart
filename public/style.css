@@ -76,3 +76,9 @@ body {
     width: 1280px;
     background-size: cover;
 }
+@media only screen and (max-width: 413px) {
+    .box {
+        bottom: 3%;
+        left: 70%;
+    }
+  }
